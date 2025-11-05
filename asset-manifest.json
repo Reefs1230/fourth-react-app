@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fourth-react-app/static/css/main.6c38463a.css",
+    "main.js": "/fourth-react-app/static/js/main.2a4f30ab.js",
+    "static/js/453.6c6d6a24.chunk.js": "/fourth-react-app/static/js/453.6c6d6a24.chunk.js",
+    "index.html": "/fourth-react-app/index.html",
+    "main.6c38463a.css.map": "/fourth-react-app/static/css/main.6c38463a.css.map",
+    "main.2a4f30ab.js.map": "/fourth-react-app/static/js/main.2a4f30ab.js.map",
+    "453.6c6d6a24.chunk.js.map": "/fourth-react-app/static/js/453.6c6d6a24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c38463a.css",
+    "static/js/main.2a4f30ab.js"
+  ]
+}
